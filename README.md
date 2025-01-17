@@ -1,16 +1,27 @@
-## Hi there 👋
+# I'm Ether
+* Usuario de Debian.
+* Estudiante Técnico IT.
 
-<!--
-**devEthan6737/devEthan6737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tag Languages**
+* HTML
+* CSS
 
-Here are some ideas to get you started:
+**Programming Languages:**
+* JavaScript, Node & TypeScript
+* Python
+* C++
+* Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Databases**
+* MongoDB
+* MariaDB
+* PostgreSQL
+
+**DevTools**
+* Git
+* Visual Studio Code
+* Kate
+
+**Contacto:**
+* GitHub: [Tu perfil de GitHub]
+* Email: [Tu correo electrónico]
