@@ -1,6 +1,6 @@
 # I'm Ether 
 
-* 🐧 Usuario de Debian.
+* 🐧 Usuario de Debian & Ubuntu.
 * 🎓 Estudiante Técnico IT.
 
 **Tag Languages**
