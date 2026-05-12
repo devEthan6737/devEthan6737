@@ -4,7 +4,7 @@
 
 I love spent time playing games and coding. I know I don't show the best at all, but I try to research and improve my knowledge ocassionally.
 
-* Debian & Ubuntu user.
+* Debian 12 & Windows 11 user.
 * 🎓 SMR, DAM.
 
 ## Languages
